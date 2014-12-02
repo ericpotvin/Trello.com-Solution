@@ -56,7 +56,7 @@ class Trello {
 
 	/**
 	 * deHash()
-	 * Hash a string
+	 * De-Hash a string
 	 *
 	 * @param	Integer	$hash	Hashed value of the string
 	 */
