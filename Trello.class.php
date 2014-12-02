@@ -5,7 +5,7 @@
 *
 * @author	Eric Potvin
 * @package	PHPClasses
-* @link		https://github.com/BookOfZeus/trello.com
+* @link		https://github.com/BookOfZeus/Trello.com-Solution
 */
 
 /**
